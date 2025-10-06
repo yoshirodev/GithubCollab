@@ -1,2 +1,0 @@
-# GithubCollab
-collab
